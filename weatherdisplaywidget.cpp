@@ -34,7 +34,8 @@ weatherDisplayWidget::weatherDisplayWidget(QDateTime *current, QWidget *parent) 
         /*qDebug()<< ui->comboBox->currentText();
         qDebug() << QDateTime::fromString(ui->comboBox->currentText(), "yyyy-MM-dd hh:mm:ss");*/
         //datetime = new QDateTime(QDateTime::fromString(ui->comboBox->currentText(), "yyyy-MM-dd hh:mm:ss"));
-        datetime = &(MainWindow::instance()->getWorkingDate());
+        QDateTime d = MainWindow::instance()->getWorkingDate();
+        datetime = &d;
     };
     refresh();
 

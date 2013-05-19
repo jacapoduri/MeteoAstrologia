@@ -1,8 +1,8 @@
 /********************************************************************************
 ** Form generated from reading UI file 'excelexportwidget.ui'
 **
-** Created: Fri 21. Sep 13:34:23 2012
-**      by: Qt User Interface Compiler version 4.8.1
+** Created: Sun 19. May 01:43:09 2013
+**      by: Qt User Interface Compiler version 4.8.4
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/

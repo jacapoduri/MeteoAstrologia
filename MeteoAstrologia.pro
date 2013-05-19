@@ -147,9 +147,9 @@ DEFINES += USE_DLL
 DEFINES += DOS32
 DEFINES += DOS_DEGREE
 #LIBS += -L "E:\shaka\dev\current\soft\MeteoAstrologia\sweph\bin"
-LIBS += "E:\shaka\dev\current\soft\MeteoAstrologia\sweph\bin\swedll32.lib"
-LIBS += "E:\shaka\dev\current\soft\MeteoAstrologia\sweph\bin\swetrm32.lib"
-LIBS += "E:\shaka\dev\current\soft\MeteoAstrologia\sweph\bin\swetrs32.lib"
+LIBS += "C:\trabajos\MeteoAstrologia\sweph\bin\swedll32.lib"
+LIBS += "C:\trabajos\MeteoAstrologia\sweph\bin\swetrm32.lib"
+LIBS += "C:\trabajos\MeteoAstrologia\sweph\bin\swetrs32.lib"
 
 LIBS += -lqaxserver
 

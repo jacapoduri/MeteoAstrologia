@@ -1,8 +1,8 @@
 /********************************************************************************
 ** Form generated from reading UI file 'sizigiaexcelreportwidget.ui'
 **
-** Created: Wed 22. Aug 16:39:11 2012
-**      by: Qt User Interface Compiler version 4.8.1
+** Created: Sun 19. May 01:43:09 2013
+**      by: Qt User Interface Compiler version 4.8.4
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
